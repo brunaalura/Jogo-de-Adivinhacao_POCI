@@ -9,9 +9,9 @@ print("Você digitou:", chute_str)
 chute = int(chute_str)
 
 if (numero_secreto == chute):
-    print ("Você acertou!")
+    print ("Parabéns Você acertou!")
 else:
-    print ("Você errou!")
+    print ("Não fique triste mas você errou!Tente outra vez!")
 
 print("Fim de Jogo!")
 
